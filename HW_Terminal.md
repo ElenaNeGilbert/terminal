@@ -1,5 +1,5 @@
-1) Посмотреть где я: '''pwd'''
-2) Создать папку: mkdir folder0
+1) Посмотреть где я: ```pwd```
+2) Создать папку: ```mkdir folder0```
 3) Зайти в папку: cd folder0
 4) Создать 3 папки: mkdir folder_name1, folder_name2, folder_name3
 5) Зайти в любоую папку: cd folder_name1
